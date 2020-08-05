@@ -1,6 +1,6 @@
 # SYN_FASTAtools_2019
 
-# FASTATOOLS
+## FASTATOOLS
 
 Bioinformatics is about creating softwares that cope with biology issues.
 A classic issue consists in collecting genetic sequences (DeoxyriboNucleic Acid, DNA), and extracting as
