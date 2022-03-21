@@ -13,3 +13,5 @@ reading, decoding and understanding DNA leads to living beings understanding.
 #image(img/B-SYN-200_FASTAtools_DNA.png, 500px)
 DNA is composed of 4 molecules: Adenine (A), Cytosine (C), Guanine (G) and Thymine (T).
 Thus, DNA is often regarded as a string (called sequence), representing the sequency of those molecules.
+
+essai pour le my_marvin
